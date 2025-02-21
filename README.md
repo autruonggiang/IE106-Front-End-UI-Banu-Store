@@ -9,9 +9,9 @@
 </div>
 
 + Canva: https://www.canva.com/design/DAF3fjvFrJM/RyKnB_YB3Bex5h7Dtq63mg/edit
-+ Demo website: http://ie106.customafk.com/
-+ Figma: https://www.figma.com/file/OeCVzsCyK6P0KohcXXI84E
 + Demo Youtube: https://www.youtube.com/watch?v=DSh2PA9_e2M
++ Demo website: http://ie106.customafk.com/ (expired)
++ Figma: https://www.figma.com/file/OeCVzsCyK6P0KohcXXI84E (expired)
 
 ```
 ___Table of Contents___
