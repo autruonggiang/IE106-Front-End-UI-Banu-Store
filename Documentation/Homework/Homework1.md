@@ -1,1 +1,0 @@
-Trả lời 2 câu hỏi cuối slide buổi 2, và nộp lại file PDF (Họ Tên_mssv.pdf).
